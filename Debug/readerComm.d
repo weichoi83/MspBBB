@@ -1,0 +1,1 @@
+readerComm.o: ../readerComm.c
